@@ -1,0 +1,64 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin:0%;
+}
+h1{
+    color:blue;
+}
+.photo{
+    color:gold;
+}
+.flexible-container{
+    display:flex;
+    margin-bottom:10%;
+}
+.half-width{
+    width: 100%;
+    padding-left: 50px;
+    
+    
+
+} 
+.buttom{
+    text-decoration: none;
+    background-image:linear-gradient(red,rgb(151, 151, 167));
+    background-color: gold;
+    padding:20px,100px,200px;
+    color:wheat;
+    font-weight: 400px;
+    border-radius: 5px;
+
+
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.early-life{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.orange-color{
+    color:orange;
+}
+.carier-life{
+    width:80%;
+     margin left: 5px;;
+     margin right 5px;%;
+     padding-left:50px;
+     border-radius: 10px;
+     
+     box-shadow: 10px 5px 5px black;
+}
+.carier-lifes{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+    
+    
+     
